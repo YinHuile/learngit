@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 123
 dev
 dev1
+abc
